@@ -1,4 +1,7 @@
 # Scouting Application - 2848
+
+Check our app page [HERE](http://goo.gl/zn0yB0).
+
 ___
 # To Do List:
 - Finish variable list and algorithms for variables
