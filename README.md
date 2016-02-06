@@ -1,6 +1,6 @@
 # Scouting Application - 2848
 
-Check our app page [HERE](http://goo.gl/zn0yB0).
+Check our app page [HERE](http://goo.gl/jNdkKQ).
 
 ___
 # To Do List:
