@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" layout="GridLayout" gridLayoutRows="2" gridLayoutColumns="3" title="Viewing Beta" >
+  <component type="Container" name="Container51" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="TextArea" name="TextArea" cloudBoundProperty="text" cloudDestinationProperty="TextArea" text="" >
+    </component>
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Team 2848" >
+    </component>
+    <component type="Button" name="Button1" cloudDestinationProperty="Button" commandName="View More" commandId="6" commandAction="Second" commandBack="false" text="View More" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField2" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField2" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField3" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField3" text="" >
+    </component>
+    <component type="Label" name="testA" cloudDestinationProperty="Label1" text="Can shoot 99% High Goal No low Goal Attempted" >
+    </component>
+    <component type="Label" name="testB" cloudDestinationProperty="Label2" text="Makes Mad Buckets" >
+    </component>
+    <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="Can Go Under Low Bar" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField6" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField6" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField7" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField7" text="" >
+    </component>
+    <component type="Slider" name="Slider" cloudDestinationProperty="Slider" text="" >
+    </component>
+  </component>
+  <component type="Container" name="Container4" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="Button" name="Button2" cloudDestinationProperty="Button2" text="Go" >
+    </component>
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Team 2468" >
+    </component>
+    <component type="Button" name="Button11" cloudDestinationProperty="Button" commandName="View More" commandId="6" commandAction="Second" commandBack="false" text="View More" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField2" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField2" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField4" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField4" text="" >
+    </component>
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Can shoot 79% High , 100% Low" >
+    </component>
+    <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Doesn't Mad Buckets" >
+    </component>
+    <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="Can Go Under Low Bar" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField6" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField6" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField7" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField7" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" text="" >
+    </component>
+  </component>
+  <component type="Container" name="Container4" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" text="" >
+    </component>
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Team 3310" >
+    </component>
+    <component type="Button" name="Button12" cloudDestinationProperty="Button" commandName="View More" commandId="6" commandAction="Second" commandBack="false" text="View More" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField2" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField2" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField3" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField3" text="" >
+    </component>
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Can shoot 23% High Goal No low Goal Attempted" >
+    </component>
+    <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Makes Mad Buckets" >
+    </component>
+    <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="Can't Go Under Low Bar" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField6" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField6" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField7" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField7" text="" >
+    </component>
+  </component>
+  <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Team 234" >
+    </component>
+    <component type="Button" name="Button13" cloudDestinationProperty="Button" commandName="View More" commandId="6" commandAction="Second" commandBack="false" text="View More" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField2" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField2" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField3" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField3" text="" >
+    </component>
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Can shoot 99% High Goal No low Goal Attempted" >
+    </component>
+    <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Makes Mad Buckets" >
+    </component>
+    <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="Can Go Under Low Bar" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField6" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField6" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField7" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField7" text="" >
+    </component>
+  </component>
+  <component type="Container" name="Container3" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Team 248" >
+    </component>
+    <component type="Button" name="Button14" cloudDestinationProperty="Button" commandName="View More" commandId="6" commandAction="Second" commandBack="false" text="View More" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField2" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField2" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField5" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField5" text=" " >
+    </component>
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Can shoot 79% High, 100% Low" >
+    </component>
+    <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Sample Text" >
+    </component>
+    <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="Example" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField6" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField6" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField7" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField7" text="" >
+    </component>
+  </component>
+  <component type="Container" name="Container5" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="Label" name="Label" cloudDestinationProperty="Label" text="Team 789" >
+    </component>
+    <component type="Button" name="Button" cloudDestinationProperty="Button" commandName="View More" commandId="6" commandAction="Second" commandBack="false" text="View More" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField1" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField1" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField2" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField2" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField3" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField3" text="" >
+    </component>
+    <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Can shoot 99% High Goal No low Goal Attempted" >
+    </component>
+    <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Makes Mad Buckets" >
+    </component>
+    <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="Can Go Under Low Bar" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField6" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField6" text="" >
+    </component>
+    <component type="AutoCompleteTextField" name="AutoCompleteTextField7" cloudBoundProperty="text" cloudDestinationProperty="AutoCompleteTextField7" text="" >
+    </component>
+  </component>
+</component>

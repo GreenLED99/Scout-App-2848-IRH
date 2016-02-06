@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="7" useXmlUI="false">
+    <image name="2428 2.0.jpg" type="multi"  />
+    <ui name="GUI 1" />
+    <ui name="Main" />
+    <ui name="Second" />
+    <theme name="Sm">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Button.align" value="4" />
+        <val key="Button.bgColor" value="3366ff" />
+        <val key="Button.fgColor" value="000000" />
+        <font key="Button.font" type="ttf" face="64" style="0" size="16" name="native:MainRegular" family="native:MainRegular" sizeSettings="2" actualSize="12.0" />
+        <val key="Button.margin" value="10,10,30,30" />
+        <val key="Button.transparency" value="255" />
+        <val key="Form.align" value="1" />
+        <val key="Form.bgColor" value="cccccc" />
+        <font key="Form.font" type="system" face="0" style="0" size="16" />
+        <val key="Label.align" value="4" />
+        <val key="Label.fgColor" value="000000" />
+        <font key="Label.font" type="ttf" face="64" style="1" size="8" name="native:MainBlack" family="native:MainBlack" sizeSettings="0" actualSize="12.0" />
+        <val key="fgColor" value="000000" />
+        <font key="font" type="ttf" face="0" style="0" size="8" name="native:MainRegular" family="native:MainRegular" sizeSettings="0" actualSize="12.0" />
+        <val key="transparency" value="255" />
+    </theme>
+    <theme name="Theme 1">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Button.align" value="4" />
+        <val key="Button.bgColor" value="3366ff" />
+        <val key="Button.fgColor" value="000000" />
+        <font key="Button.font" type="ttf" face="64" style="0" size="16" name="native:MainRegular" family="native:MainRegular" sizeSettings="2" actualSize="12.0" />
+        <val key="Button.margin" value="10,10,30,30" />
+        <val key="Button.transparency" value="255" />
+        <val key="Form.align" value="1" />
+        <val key="Form.bgColor" value="cccccc" />
+        <font key="Form.font" type="system" face="0" style="0" size="16" />
+        <val key="Label.align" value="4" />
+        <val key="Label.fgColor" value="000000" />
+        <font key="Label.font" type="ttf" face="64" style="1" size="0" name="native:MainBlack" family="native:MainBlack" sizeSettings="1" actualSize="12.0" />
+        <val key="MultiButton.bgColor" value="3366ff" />
+        <border key="TextField.border" type="empty" />
+        <val key="TextField.transparency" value="0" />
+    </theme>
+    <image name="yaOptcy.jpg" type="multi"  />
+</resource>

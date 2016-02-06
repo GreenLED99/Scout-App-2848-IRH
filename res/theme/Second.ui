@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Second" cloudDestinationProperty="Second" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="Team Stats Extended" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Team 2848 Information" >
+    <layoutConstraint value="North" />
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" commandName="BACK" commandId="1" commandAction="Main" commandBack="false" text="BACK" >
+    <layoutConstraint value="South" />
+  </component>
+  <component type="TextArea" name="TextArea" cloudBoundProperty="text" cloudDestinationProperty="TextArea" text="THESE ARE STATS" >
+    <layoutConstraint value="Center" />
+  </component>
+</component>
