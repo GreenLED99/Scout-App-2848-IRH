@@ -11,6 +11,9 @@ ___
 - Make the App more modular (used for quickly adding and removing features)
 - Make Ian know his place
 - ~~Infect users with botnet for world domination~~
+
+___
+
 # Bugs:
 - none
-###Bug History:
+	###Bug History:
