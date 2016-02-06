@@ -1,6 +1,6 @@
 # Scouting Application - 2848
 
-Check our app page [HERE](http://goo.gl/jNdkKQ).
+Check out team out [HERE](http://team2848.com/)
 
 ___
 # To Do List:
